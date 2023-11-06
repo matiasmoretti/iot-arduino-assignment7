@@ -101,6 +101,9 @@
 /*************************************************/
 
 /* 1 - TETRIS *************************************/
+// -------------------------------------------------
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
 int melodyTETRIS[] = {
     NOTE_E5, NOTE_B4, NOTE_C5, NOTE_D5, NOTE_C5, NOTE_B4, NOTE_A4, NOTE_A4, NOTE_C5, NOTE_E5, NOTE_D5, NOTE_C5, NOTE_B4, NOTE_C5, NOTE_D5, NOTE_E5,
     NOTE_C5, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_B4, NOTE_C5, NOTE_D5, NOTE_F5, NOTE_A5, NOTE_G5, NOTE_F5, NOTE_E5, NOTE_C5, NOTE_E5, NOTE_D5, NOTE_C5,
@@ -119,6 +122,9 @@ int durationsTETRIS[] = {
 /**************************************************/
 
 /* 2 - HOME ALONE *********************************/
+// -------------------------------------------------
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
   int melodyHOMEALONE[] = {
     NOTE_E4, NOTE_C5, NOTE_B4, NOTE_B4, NOTE_C5, NOTE_B4, NOTE_F4, NOTE_G4, NOTE_G4, NOTE_E4, NOTE_G4, NOTE_E4, NOTE_C5, NOTE_G4,
     NOTE_D4, NOTE_A4, NOTE_G4, NOTE_C4, NOTE_F4, NOTE_E4, NOTE_D4, NOTE_G4, NOTE_E4, NOTE_G4, NOTE_E4, NOTE_C5, NOTE_G4,
@@ -137,6 +143,9 @@ int durationsTETRIS[] = {
 /**************************************************/
 
 /* 3 - HARRY POTTER ******************************/
+// -------------------------------------------------
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
 int melodyHP[] = {
   REST, NOTE_D4, NOTE_G4, NOTE_AS4, NOTE_A4, NOTE_G4, NOTE_D5, NOTE_C5,  NOTE_A4, NOTE_G4, NOTE_AS4, NOTE_A4, NOTE_F4, NOTE_GS4,
   NOTE_D4, NOTE_D4, NOTE_G4, NOTE_AS4, NOTE_A4, NOTE_G4, NOTE_D5, NOTE_F5, NOTE_E5, NOTE_DS5, NOTE_B4, NOTE_DS5, NOTE_D5, NOTE_CS5,
@@ -151,6 +160,9 @@ int durationsHP[] = {
 /**************************************************/
 
 /* 4 - PACMAN ************************************/
+// -------------------------------------------------
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
 int melodyPACMAN[] = {
   NOTE_B4, NOTE_B5, NOTE_FS5, NOTE_DS5,NOTE_B5, NOTE_FS5, NOTE_DS5, NOTE_C5,NOTE_C6, NOTE_G6, NOTE_E6, NOTE_C6, NOTE_G6, NOTE_E6,
   NOTE_B4, NOTE_B5, NOTE_FS5, NOTE_DS5, NOTE_B5,NOTE_FS5, NOTE_DS5, NOTE_DS5, NOTE_E5, NOTE_F5,NOTE_F5, NOTE_FS5, NOTE_G5, NOTE_G5, 
@@ -170,6 +182,9 @@ int durationsPACMAN[] = {
 /*************************************************/
 
 /* 5 - XMAS **************************************/
+// -------------------------------------------------
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
 int melodyXMAS[] = {
   NOTE_E5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_G5, NOTE_C5, NOTE_D5, NOTE_E5, NOTE_F5, NOTE_F5, 
   NOTE_F5, NOTE_F5, NOTE_F5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_E5, NOTE_D5, NOTE_D5, NOTE_E5, NOTE_D5, NOTE_G5
